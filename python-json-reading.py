@@ -1,3 +1,6 @@
+#get list of logins that were requested a review on github
+#input file example: https://api.github.com/repos/tensorflow/tensorflow/pulls
+
 import json
 from pprint import pprint
 
